@@ -12,7 +12,7 @@
     "cypress",
     "xpeducacao"
   ],
-  "author": "Bárbara Cabral",
+  "author": "Rayanne Souza",
   "license": "ISC",
   "dependencies": {
     "cypress": "^10.11.0"
